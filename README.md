@@ -116,6 +116,8 @@ Go to EC2 and launch instance:
 
 ![Screenshot 2024-02-19 at 17 21 08](https://github.com/redjules/Create-a-Virtual-Private-Cloud-VPC-Using-AWS/assets/106017493/39018043-f05a-4d26-9425-80392a2d1a91)
 
+![Screenshot 2024-02-19 at 17 20 12](https://github.com/redjules/Create-a-Virtual-Private-Cloud-VPC-Using-AWS/assets/106017493/77dce48a-12a7-4a8f-9368-32420d3a2fbd)
+
 ![Screenshot 2024-02-19 at 17 21 24](https://github.com/redjules/Create-a-Virtual-Private-Cloud-VPC-Using-AWS/assets/106017493/a4900bbf-4b97-47a5-93fc-c00671089b34)
 
 ![Screenshot 2024-02-19 at 17 22 07](https://github.com/redjules/Create-a-Virtual-Private-Cloud-VPC-Using-AWS/assets/106017493/735c6f53-9b78-4f9c-99ed-02962b7b8166)
@@ -128,4 +130,4 @@ Go to EC2 and launch instance:
 
 ![Screenshot 2024-02-19 at 17 23 56](https://github.com/redjules/Create-a-Virtual-Private-Cloud-VPC-Using-AWS/assets/106017493/1c6ac96b-9855-4a1e-9392-f10579f3bad2)
 
-![Screenshot 2024-02-19 at 17 20 12](https://github.com/redjules/Create-a-Virtual-Private-Cloud-VPC-Using-AWS/assets/106017493/77dce48a-12a7-4a8f-9368-32420d3a2fbd)
+
